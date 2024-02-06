@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @An-dra
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning JS, CSS, Selenium
+- 🌱 I’m currently learning SQL, JS, CSS, Selenium
 
 <!---
 An-dra/An-dra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
